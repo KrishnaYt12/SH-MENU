@@ -16,6 +16,12 @@ Menu System for the qbcore Framework with better interface and this menu comes w
 ### Redesigned Menu With Search Option
 ![Redesigned Menu With Search Option](https://cdn.discordapp.com/attachments/1182416054941667388/1208163641442959420/Screenshot_2024-02-17_025223.png?ex=65e24912&is=65cfd412&hm=b52c58a4ec25527dc8996d03d61466801b03656d56334775f82eba46024a49be&)
 
+### Menu Hover
+![Menu Hover](https://cdn.discordapp.com/attachments/1182416054941667388/1208163564871884850/Screenshot_2024-02-17_025145.png?ex=65e24900&is=65cfd400&hm=5f8737bfeddfb2d58beda21eacbabb8201869b2b5c8fcc9b352a129b6de8a371&)
+
+### Search Option
+![Search Option](https://cdn.discordapp.com/attachments/1182416054941667388/1208163605934116894/Screenshot_2024-02-17_025206.png?ex=65e2490a&is=65cfd40a&hm=5d2da1f198ee4988d371e3d5f4d6ae048268c6564ecb27ee26883db434dff0b5&)
+
 This is a modified version of **[NH Context](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-context-menu-dynamic-event-firing-menu/2564083)** by **[NeroHiro](https://github.com/nerohiro)**
 
 --[[
