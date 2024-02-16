@@ -170,7 +170,7 @@ body {
 }
 
 .button:hover {
-  background-color: #9314dc96;
+  background-color: rgb(29, 26, 26);
   border: 1px solid #ae00ff;
   border-left: 5px solid #ae00ff;
   border-radius: 10px;
